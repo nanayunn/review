@@ -16,7 +16,9 @@ $f(ax + by) = af(x) + bf(y) + c$
 - Linear transformation: $Ax$
 
 **Orthogonal Transformations:**
-$R = \begin{bmatrix} \cos(\theta) & -\sin(\theta) \\ \sin(\theta) & \cos(\theta) \end{bmatrix}$
+$$
+R = \begin{bmatrix} \cos(\theta) & -\sin(\theta) \\ \sin(\theta) & \cos(\theta) \end{bmatrix}
+$$
 
 **Combining Orthogonal and Scaling Transformations:**
 - Rotate $D$ using $V$.
